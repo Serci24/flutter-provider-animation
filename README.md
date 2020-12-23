@@ -1,6 +1,6 @@
-# voice_recorder
+# animation_and_provider
 
-A new Flutter project.
+A new Flutter project for animation and provider.
 
 ## Getting Started
 
